@@ -16,9 +16,9 @@
   "author": "Jacobo Martinez",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nacsko/simplefoli-nacim/issues"
+    "url": "https://github.com/nacsko/simplefolio-nacim/issues"
   },
-  "homepage": "https://github.com/nacsko/simplefolio#readme",
+  "homepage": "https://github.com/nacsko/simplefolio-nacim#readme",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.8.2",
     "parcel": "^2.8.2",
